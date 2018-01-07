@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:48:31 +0800] "GET /order/order-cart.html HTTP/1.1" 302 - http-bio-8195-exec-1 407
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:49:23 +0800] "GET /order/order-cart.html HTTP/1.1" 200 24149 http-bio-8195-exec-2 3738
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:49:23 +0800] "GET /css/base.css HTTP/1.1" 200 48835 http-bio-8195-exec-3 164
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:49:23 +0800] "GET /css/order-commons.css HTTP/1.1" 200 47486 http-bio-8195-exec-4 172
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:49:23 +0800] "GET /js/jquery-extend.js HTTP/1.1" 200 1802 http-bio-8195-exec-9 17
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:49:23 +0800] "GET /js/taotao.js HTTP/1.1" 200 642 http-bio-8195-exec-9 3
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:49:23 +0800] "GET /js/order.common.js HTTP/1.1" 200 9499 http-bio-8195-exec-7 82
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:49:23 +0800] "GET /js/base.js HTTP/1.1" 200 12499 http-bio-8195-exec-6 254
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:49:23 +0800] "GET /js/jquery-1.6.4.js HTTP/1.1" 200 92010 http-bio-8195-exec-5 262
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:49:23 +0800] "GET /js/lib-v1.js HTTP/1.1" 200 122984 http-bio-8195-exec-10 92
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:49:23 +0800] "GET /js/jquery.checkout.js HTTP/1.1" 200 13775 http-bio-8195-exec-8 119
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:49:23 +0800] "GET /images/taotao-logo.gif HTTP/1.1" 200 6060 http-bio-8195-exec-2 213
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:49:24 +0800] "GET /images/20130725.png HTTP/1.1" 200 275 http-bio-8195-exec-2 103
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:49:24 +0800] "GET /images/purchase-icon.png HTTP/1.1" 200 658 http-bio-8195-exec-9 36
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:49:24 +0800] "GET /images/user_purchase.png HTTP/1.1" 200 1474 http-bio-8195-exec-5 79
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:21:49:24 +0800] "GET /images/20130330A_2.png HTTP/1.1" 200 8252 http-bio-8195-exec-2 154
